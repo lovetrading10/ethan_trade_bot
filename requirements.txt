@@ -1,0 +1,11 @@
+Buy 1 = Lux Algo Premium, Any Confirmation Buy, 1m chart time interval
+
+Buy 2 = Lux Oscillator, Legacy Main, moving up %, 0.01 in 2 bars, 30s chart time interval
+
+Sell 1 = Lux Algo Premium, Any Confirmation Sell, 1m chart time interval
+
+Sell 2 = 9ma, moving down %, 0.03 in 2 bars, 1m chart time interval
+
+Long Entry Order Execution = Buy 1 + Buy 2 alerts received via email within 1m
+
+Long Exit Order Execution = Sell 1 or Sell 2, or whichever comes first
